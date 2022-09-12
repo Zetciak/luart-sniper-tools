@@ -1,4 +1,16 @@
-Luart Marketplace NFT Tools, sniper coded by Zetty / Part of my portfolio
+## Info
+Luart Marketplace NFT Tools and Sniper
+
+## Usage
+Node.js: v16.14.0
+
+Install all packages
+
+```sh
+npm install
+```
+
+Then run it on your server
 
 ## Authors
 
